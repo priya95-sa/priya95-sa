@@ -1,7 +1,7 @@
 Aspiring Quality Assurance Tester with hands-on experience in building scalable web applications and automating test cases. 💻 Skilled in Java, Selenium WebDriver, TestNG, Data-Driven Framework, and Manual Testing. 
 🛠️ Proficient in developing user-friendly front-end interfaces and writing robust test scripts for web apps. 🗂️ Familiar with Agile practices, Git for version control, and tools like Apache POI, Excel, JIRA, and Postman. 📈 Passionate about building clean code, optimizing workflows, and ensuring high-quality releases.
 
-🛠️ Tech Stack: 💻 Languages & Frameworks: Java |Sql
+🛠️ Tech Stack: 💻 Languages & Frameworks: Java |Sql BDD Cucmber 
 
 ⚙️ Testing Tools: Selenium WebDriver | TestNG | JUnit
 
